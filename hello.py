@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
 
-name = 'world'
+name = 'freesoul'
 
 print('Hello, ' + name + '!')
